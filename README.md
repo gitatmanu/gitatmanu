@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm Manel 👋
+
+- 🔭 I’m currently working on: Wallaphp and PDFcomuna.
+
+- 🌱 I’m currently learning: PHP, MySql and Django.
+
+- 📫 How to reach me: gitatmanu@gmail.com.
+
 
 <!--
 **gitatmanu/gitatmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
