@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on: Wallaphp and PDFcomuna.
 
+- I already know AJAX, HTML5, CSS3, ES6.
+
 - 🌱 I’m currently learning: PHP, MySql and Django.
 
 - 📫 How to reach me: gitatmanu@gmail.com.
