@@ -1,8 +1,8 @@
 ### Hello, I'm Manel 👋
 
-- 🔭 I’m currently working on: Wallaphp and PDFcomuna.
+- 🔭 I’m currently working on: Wallaphp, PDFcomuna and estadodelmce.
 
-- I already know AJAX, HTML5, CSS3, ES6, Java, Python.
+- Known technologies: AJAX, HTML5, CSS3, ES6, Java, Python and JSP.
 
 - 🌱 I’m currently learning: PHP, MySql and Django.
 
