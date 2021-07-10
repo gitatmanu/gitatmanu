@@ -1,11 +1,7 @@
 ### Hello, I'm Manel 👋
 
-- 🔭 I’m currently working on: Wallaphp, PDFcomuna and estadodelmce.
-
-- Known technologies: AJAX, HTML5, CSS3, ES6, Java, Python and JSP.
-
-- 🌱 I’m currently learning: PHP, MySql and Django.
-
+- 🔭 I’m currently working on: PDFcomuna and estadodelmce.
+- 
 - 📫 How to reach me: gitatmanu@gmail.com.
 
 
