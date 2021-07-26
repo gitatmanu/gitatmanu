@@ -1,6 +1,6 @@
 ### Hello, I'm Manel 👋
 
-- 🔭 I’m currently working on: nazbolizaBot, armesilla-bot and estadodelmce.
+- 🔭 I’m currently working on: nazbot, armesilla-bot and estadodelmce.
 - 
 - 📫 How to reach me: gitatmanu@gmail.com.
 
